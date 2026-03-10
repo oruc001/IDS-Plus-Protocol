@@ -1,0 +1,17 @@
+[
+  {
+    "char": "瀛",
+    "ids_plus": "⿰1氵+1贏",
+    "logic": "Water(1) is semantic; Win(+1) is hybrid."
+  },
+  {
+    "char": "娶",
+    "ids_plus": "⿱+1取1女",
+    "logic": "Take(+1) is hybrid; Woman(1) is semantic."
+  },
+  {
+    "char": "斌",
+    "ids_plus": "⿰+2文武",
+    "logic": "Both components are hybrid semantic-phonetic."
+  }
+]

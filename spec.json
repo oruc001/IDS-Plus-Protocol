@@ -1,32 +1,31 @@
-[
+{
+    "char": "媽",
+    "ids_plus": "⿰1女馬",
+    "logic": "1 sets Female (女) as Semantic. Defaults to Phonetic for Horse (馬)."
+  },
   {
     "char": "瀛",
-    "ids_plus": "⿰氵+贏",
+    "ids_plus": "⿰1氵+贏",
     "logic": "Water is semantic; Win(+) is hybrid."
   },
   {
-    "char": "斌",
-    "ids_plus": "⿰+2文武",
-    "logic": "Dual hybrid (+2) for semantic-phonetic balance."
-  },
-  {
-    "char": "𡈽",
-    "ids_plus": "⿱土口",
-    "logic": "Pure structural variant. No hybrid markers needed. Earth over Mouth."
-  },
-  {
-    "char": "繼",
-    "ids_plus": "⿰糹(⿱+2𠂇米(幺幺))",
-    "logic": "Deep nesting with multiple structural levels and hybrid components."
+    "char": "閑",
+    "ids_plus": "⿵2門木",
+    "logic": "Operator Immunity rule: '2' covers both Gate (門) and Tree (木) as Semantic, ignoring the '⿵' operator."
   },
   {
     "char": "龘",
-    "ids_plus": "⿱龍(⿰龍龍)",
-    "logic": "Purely structural/semantic repetition (Triple Dragon). No hybrids, proves nesting logic (n)."
+    "ids_plus": "⿱3龍⿰龍龍",
+    "logic": "AST Integrity rule: Stream logic (3) assigns Semantic roles to all three Dragons, while the operators (⿱, ⿰) build the tree independently."
   },
   {
-    "char": "徽",
-    "ids_plus": "⿲彳(⿱+1山系)攵",
-    "logic": "Complex triple-vertical layout with nested hybrid sub-component."
+    "char": "贏",
+    "ids_plus": "⿱亡⿱口⿲月1貝凡",
+    "logic": "Inline placement: The '1' specifically targets the Shell/Money (貝) as the core Semantic root deep within the structural tree."
+  },
+  {
+    "char": "林",
+    "ids_plus": "⿰-1木",
+    "logic": "Directional Compression: Base unit '木' + 1 repetition. Both are Semantic."
   }
 ]
